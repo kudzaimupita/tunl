@@ -14,7 +14,7 @@ const serverlessConfiguration = {
           path: './',
         },
       },
-    }
+    },
   },
   functions: {
     api: {
