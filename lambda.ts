@@ -1,6 +1,6 @@
 const serverless = require('serverless-http');
 // const mongoose = require('mongoose');
-const app  = require('./src/app');
+const app  = require('./');
 // const logger = require('./src/config/logger');
 // const config = require('./src/config/config');
 

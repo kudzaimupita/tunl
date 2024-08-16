@@ -18,6 +18,7 @@ const serverlessConfiguration = {
   },
   functions: {
     api: {
+      handler: 'dist/lambda.handler',
       image: {
         name: 'api',
       },
