@@ -1,7 +1,7 @@
 // import type { AWS } from 'serverless-plugin-typescript';
 const serverlessConfiguration = {
   service: 'tunl-api',
-  frameworkVersion: '4',
+  frameworkVersion: '3',
   provider: {
     name: 'aws',
     runtime: 'nodejs18.x',
