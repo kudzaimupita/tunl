@@ -31,7 +31,7 @@ const serverlessConfiguration = {
   package: {
     individually: true,
   },
-  plugins: ['serverless-offline'],
+//   plugins: ['serverless-offline'],
 };
 
 module.exports = serverlessConfiguration;
