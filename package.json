@@ -21,7 +21,9 @@
     "helmet": "^7.1.0",
     "morgan": "^1.10.0",
     "serverless": "^3.1.1",
-    "serverless-http": "^3.2.0"
+    "serverless-http": "^3.2.0",
+    "serverless-plugin-typescript": "^2.1.5",
+    "serverless-stack-output": "^0.2.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
