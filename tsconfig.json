@@ -12,7 +12,9 @@
   },
   "include": [
     "./*.js",
+    "./*.ts",           // Include .ts files in the root
     "src/**/*.ts",
-    "test/**/*.ts", "lambda.js",
-  ],
+    "test/**/*.ts",
+    "lambda.js"
+  ]
 }
